@@ -1,8 +1,8 @@
 # UI-CJ
 
-##Product Canvas
+Product Canvas
 
-###Proposal
+Proposal
 
 What problem does your app solve?
 
@@ -14,7 +14,7 @@ What is the mission statement?
 
 Our mission is to connect people one random act of kindness at a time. We strive to facilitate acts of kindness no matter where you are or how much you can contribute. We strive to provide a supportive community of individuals with the ideas and means to make change in the world regardless of who you are or where you live.
 
-###Features
+Features
 
 What features are required for your minimum viable product?
 Navigation on all pages
@@ -54,7 +54,7 @@ You can gather information about the data set you’ll be working with from the 
 Write a description for what the DS problem is (what uncertainty/prediction are we trying to do here? Sentiment analysis? Why is this a useful solution to a problem?)
 A target (e.g. JSON format or such) for output that DS students can deliver to web/other students for them to ingest and use in the app
 
-###Target Audience
+Target Audience
 
 Who is your target audience? Be specific.
 Busy young professionals
@@ -67,7 +67,7 @@ They want tasks they can complete remotely and tasks that aren’t too specific.
 Have you validated the problem and your solution with your target audience? How?
 Some validation has occurred through sending out surveys. Also some user testing has occurred through showing our user group a prototype for onboarding, adding contacts, and adding service ideas. So far, the users have successfully completed the tasks and further testing will occur.
 
-###Research
+Research
 
 Research thoroughly before writing a single line of code. Solidify the features of your app conceptually before implementation. Spend the weekend researching so you can hit the ground running on Monday.
 Prototype Key Feature(s)
@@ -81,6 +81,6 @@ Ideas List - Wednesday
 Idea Generator Page - Thursday
 User onboarding (Login, Sign-up) - Wednesday/Thursday
 
-###Trello link: https://trello.com/b/pBHY5vAT/random-acts-generator-ui-cj
+Trello link: https://trello.com/b/pBHY5vAT/random-acts-generator-ui-cj
 
 
