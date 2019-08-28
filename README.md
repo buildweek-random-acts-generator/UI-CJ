@@ -14,28 +14,6 @@ Random acts generator solves both problems by reminding you to serve- randomly c
 
 Our mission is to connect people one random act of kindness at a time. We strive to facilitate acts of kindness no matter where you are or how much you can contribute. We strive to provide a supportive community of individuals with the ideas and means to make change in the world regardless of who you are or where you live.
 
-###Features
-
-#### What features are required for your minimum viable product?
-
-- Navigation on all pages
-- Onboarding for new user
-- Page and working functionality for a user to add, update, and delete contacts
-- Page displaying existing random acts that can be modified by user
-- Page displaying a random user contact and corresponding random act that the user performs for that contact
-
-#### What features may you wish to put in a future release?
-
-- Share kindness story to social media
-- Streak tracker
-- Push notifications reminding user to perform random act for mobile
-
-#### What do the top 3 similar apps do for their users?
-
-- MVMNT app - provides a daily service idea
-  Kindness App - journal about kindness task completed
-- Random Acts of Kindness - kindness challenge that updates daily
-
 ### Frameworks - Libraries
 
 #### What 3rd party frameworks/libraries are you considering using?
@@ -61,7 +39,7 @@ For Data Scientists
 
 Our mission is to connect people one random act of kindness at a time. We strive to facilitate acts of kindness no matter where you are or how much you can contribute. We strive to provide a supportive community of individuals with the ideas and means to make change in the world regardless of who you are or where you live.
 
-## Features
+### Features
 
 #### What features are required for your minimum viable product?
 
