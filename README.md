@@ -104,10 +104,6 @@ They want tasks they can complete remotely and tasks that aren’t too specific.
 Have you validated the problem and your solution with your target audience? How?
 Some validation has occurred through sending out surveys. Also some user testing has occurred through showing our user group a prototype for onboarding, adding contacts, and adding service ideas. So far, the users have successfully completed the tasks and further testing will occur.
 
-###Research
-
-##### Research thoroughly before writing a single line of code. Solidify the features of your app conceptually before implementation. Spend the weekend researching so you can hit the ground running on Monday.
-
 #### What feedback have you gotten from potential users?
 
 They want tasks they can complete remotely and tasks that aren’t too specific. They had a preference for writing tasks such as texting or sharing messages from their phone.
@@ -129,4 +125,4 @@ Ideas List - Wednesday
 Idea Generator Page - Thursday
 User onboarding (Login, Sign-up) - Wednesday/Thursday
 
-####T rello link: https://trello.com/b/pBHY5vAT/random-acts-generator-ui-cj
+#### Trello link: https://trello.com/b/pBHY5vAT/random-acts-generator-ui-cj
