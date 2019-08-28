@@ -169,6 +169,10 @@ nav h1 {
   width: 30%;
   margin: 1%;
 }
+nav h1 a {
+  text-decoration: none;
+  color: #ffffff;
+}
 nav .navLinks {
   display: flex;
   justify-content: flex-end;
@@ -321,9 +325,9 @@ nav .navLinks a {
 }
 .about .aboutus .members .member {
   border-radius: 10px;
-  width: 29%;
+  width: 27%;
   background-color: #363237;
-  margin: 2%;
+  margin: 3%;
   padding: 2%;
 }
 @media (max-width: 500px) {
